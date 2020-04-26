@@ -1,2 +1,2 @@
-# rnn_daily_stock_price_prediction
-An RNN developed with TensorFlow that predicts TD's stock price on the next day
+# Using an RNN to Predict TD's Stock From Historical Data
+This repository focuses on developing an RNN using tensorflow that predicts TD's stock price using historical data from various sources. The goal of this project was to gain experience developing recurrent neural networks (RNN's) by developing an RNN to predict the stock price for the TD Bank stock traded on the Toronto Stock Exchange (TSX) while taking into account the historical relationiship of TD with various factors. The various factors taken into account are discussed further in **rnn.ipynb**. The links to the various datasets are also provided in **rnn.ipynb** however the datafiles used can also be downloaded from **file to data** in this repository.
